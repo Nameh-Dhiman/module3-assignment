@@ -181,4 +181,7 @@ h2{
 		 float:left;
 		 width:100%;
 	}
+	#chicken-tile, #beef-tile, #sushi-tile{
+		height:640px;
+	}	
 }
